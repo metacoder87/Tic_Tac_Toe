@@ -1,6 +1,6 @@
             # meta_coder (Gary Miller) =)
             # gmiller052611@gmail.com
-            # https://github.com/metacoder87/App-Academy-Projects
+            # https://github.com/metacoder87/Tic_Tac_Toe
 
 
 class HumanPlayer
@@ -53,4 +53,4 @@ end
 
             # meta_coder (Gary Miller) =)
             # gmiller052611@gmail.com
-            # https://github.com/metacoder87/App-Academy-Projects
+            # https://github.com/metacoder87/Tic_Tac_Toe
